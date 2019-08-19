@@ -25,3 +25,18 @@ However, I still choose rasa, because.
 
 ## For the first part of the tutorial, you may follow me on the rasa website
 https://rasa.com/docs/getting-started/
+
+
+Useful tips when you face problem when develop in Linux:
+
+### How to Virtual Env
+https://gist.github.com/frfahim/73c0fad6350332cef7a653bcd762f08d
+
+### Build Wheel Failed on Linux system
+sudo apt-get install build-essential
+sudo apt-get install libevent-dev
+sudo apt-get install python-dev -y
+sudo apt-get install python3-dev -y 
+sudo apt-get install libevent-dev -y 
+sudo apt-get install gcc
+sudo apt-get install python3.6-dev // if you are using python 3.6 
